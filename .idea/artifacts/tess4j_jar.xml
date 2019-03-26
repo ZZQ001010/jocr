@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tess4j:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tess4j_jar</output-path>
+    <root id="archive" name="tess4j.jar">
+      <element id="module-output" name="tess4j" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/org/slf4j/log4j-over-slf4j/1.7.21/log4j-over-slf4j-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/org/ghost4j/ghost4j/1.0.1/ghost4j-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/commons-beanutils/commons-beanutils/1.9.2/commons-beanutils-1.9.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/cglib/cglib/2.2.2/cglib-2.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/asm/asm/3.3.1/asm-3.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/net/sourceforge/lept4j/lept4j/1.2.3/lept4j-1.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/log4j/log4j/1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/commons-io/commons-io/2.5/commons-io-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/ch/qos/logback/logback-core/1.1.7/logback-core-1.1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/org/slf4j/jcl-over-slf4j/1.7.21/jcl-over-slf4j-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/ch/qos/logback/logback-classic/1.1.7/logback-classic-1.1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/junit/junit/4.13-beta-1/junit-4.13-beta-1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/org/apache/xmlgraphics/xmlgraphics-commons/1.4/xmlgraphics-commons-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/net/sourceforge/tess4j/tess4j/3.2.1/tess4j-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/org/rococoa/rococoa-core/0.5/rococoa-core-0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/net/java/dev/jna/jna/4.1.0/jna-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/org/slf4j/slf4j-api/1.7.20/slf4j-api-1.7.20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/org/slf4j/jul-to-slf4j/1.7.21/jul-to-slf4j-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/devTool/java/maven_repository/com/lowagie/itext/2.1.7/itext-2.1.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
